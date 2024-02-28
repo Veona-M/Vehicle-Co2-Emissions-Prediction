@@ -1,5 +1,5 @@
 # Vehicle-Co2-Emissions-Prediction
-This is a project on calculating the amount of carbon dioxide (Co2) that a vehicle emits depending on its features. Using the obtaianed dataset i performed advanced analysis to come up with a model that could accurately predict the vehicle's Co2 Emissions. This information can help the user understand their vehicle's impact on the environment.
+This is a project on calculating the amount of carbon dioxide (Co2) that a vehicle emits depending on its features. Using the obtained dataset I performed advanced analysis to come up with a model that could accurately predict the vehicle's Co2 Emissions. This information can help the user understand their vehicle's impact on the environment.
 
 # Understanding the data
 Make: Vehicle brand.
