@@ -6,7 +6,7 @@ Make: Vehicle brand.
 
 Model: Specific model of the car: 
 
-        4WD/4X4 = Four-wheel drive
+    4WD/4X4 = Four-wheel drive
 	AWD = All-wheel drive
 	FFV = Flexible-fuel vehicle
 	SWB = Short wheelbase
@@ -21,7 +21,7 @@ Cylinders: Number of cylinders.
 
 Transmission: Type of transmission:
 
-        A = automatic
+    A = automatic
 	AM = automated manual
 	AS = automatic with select shift
 	AV = continuously variable
@@ -30,7 +30,7 @@ Transmission: Type of transmission:
  
 Fuel_type: Type of fuel used by the car:
 
-        X = regular gasoline
+    X = regular gasoline
 	Z = premium gasoline
 	D = diesel
 	E = ethanol (E85)
@@ -49,8 +49,8 @@ Co2_emissions (g/km): Tailpipe emissions of carbon dioxide for combined city and
 # Prerequisites
  During development of this project, various tools and technologies were used:
  
-    >Python programming language
-    >Libraries such as NumPy, Matplotlib, Plotly, Scikit-learn and Streamlit
-    >Models; Linear Regression, Random Forest, K-Nearest Neighbors (KNN), and Support Vector Regression (SVR) 
-    >Deployment on the cloud using Streamlit
+    > Python programming language
+    > Libraries such as NumPy, Matplotlib, Plotly, Scikit-learn and Streamlit
+    > Models; Linear Regression, Random Forest, K-Nearest Neighbors (KNN), and Support Vector Regression (SVR) 
+    > Deployment on the cloud using Streamlit
 
