@@ -1,5 +1,5 @@
 # Vehicle-Co2-Emissions-Prediction
-# This is a project on calculating the amount of carbon dioxide (Co2) that a vehicle emits depending on its features. Using the obtaianed dataset i performed advanced analysis to come up with a model that could accurately predict the vehicle's Co2 Emissions. This information can help the user understand their vehicle's impact on the environment.
+This is a project on calculating the amount of carbon dioxide (Co2) that a vehicle emits depending on its features. Using the obtaianed dataset i performed advanced analysis to come up with a model that could accurately predict the vehicle's Co2 Emissions. This information can help the user understand their vehicle's impact on the environment.
 
 # Understanding the data
 Make: Vehicle brand.
@@ -33,9 +33,9 @@ Fuel_consumption_comb(mpg): Combined fuel consumption rating in miles per gallon
 Co2_emissions (g/km): Tailpipe emissions of carbon dioxide for combined city and highway driving, in grams per kilometer.
 
 # Prerequisites
-# During development of this project, various tools and technologies were used:
-#    >Python programming language
-#    >Libraries such as NumPy, Matplotlib, Plotly, Scikit-learn and Streamlit
-#    >Models; Linear Regression, Random Forest, K-Nearest Neighbors (KNN), and Support Vector Regression (SVR) 
-#    >Deployment on the cloud using Streamlit
+ During development of this project, various tools and technologies were used:
+    >Python programming language
+    >Libraries such as NumPy, Matplotlib, Plotly, Scikit-learn and Streamlit
+    >Models; Linear Regression, Random Forest, K-Nearest Neighbors (KNN), and Support Vector Regression (SVR) 
+    >Deployment on the cloud using Streamlit
 
