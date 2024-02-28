@@ -4,13 +4,14 @@ This is a project on calculating the amount of carbon dioxide (Co2) that a vehic
 # Understanding the data
 Make: Vehicle brand.
 Model: Specific model of the car: 
-  4WD/4X4 = Four-wheel drive
+        4WD/4X4 = Four-wheel drive
 	AWD = All-wheel drive
 	FFV = Flexible-fuel vehicle
 	SWB = Short wheelbase
 	LWB = Long wheelbase
-	EWB = Extended wheelbase        
+	EWB = Extended wheelbase     
 Vehicle_class: Car body type.
+
 Engine_size: Size of the car engine in liters.
 Cylinders: Number of cylinders.
 Transmission: Type of transmission:
