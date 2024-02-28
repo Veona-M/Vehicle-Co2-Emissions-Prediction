@@ -13,9 +13,9 @@ Model: Specific model of the car:
 	LWB = Long wheelbase
 	EWB = Extended wheelbase     
  
-Vehicle_class: Car body type.
+Vehicle class: Car body type.
 
-Engine_size: Size of the car engine in liters.
+Engine size: Size of the car engine in liters.
 
 Cylinders: Number of cylinders.
 
@@ -28,7 +28,7 @@ Transmission: Type of transmission:
 	M = manual
 	3 - 10 = Number of gears
  
-Fuel_type: Type of fuel used by the car:
+Fuel type: Type of fuel used by the car:
 
     X = regular gasoline
 	Z = premium gasoline
@@ -36,15 +36,15 @@ Fuel_type: Type of fuel used by the car:
 	E = ethanol (E85)
 	N = natural gas
  
-Fuel_consumption_city(L/100km): City fuel consumption ratings in liters per 100 kilometers.
+Fuel consumption city(L/100km): City fuel consumption ratings in liters per 100 kilometers.
 
-Fuel_consumption_hwy(L/100km): Highway fuel consumption ratings in liters per 100 kilometers.
+Fuel consumption hwy(L/100km): Highway fuel consumption ratings in liters per 100 kilometers.
 
-Fuel_consumption_comb(L/100km): Combined fuel consumption rating (city and highway) in L/100 km.
+Fuel consumption comb(L/100km): Combined fuel consumption rating (city and highway) in L/100 km.
 
-Fuel_consumption_comb(mpg): Combined fuel consumption rating in miles per gallon (mpg).
+Fuel consumption comb(mpg): Combined fuel consumption rating in miles per gallon (mpg).
 
-Co2_emissions (g/km): Tailpipe emissions of carbon dioxide for combined city and highway driving, in grams per kilometer.
+Co2 emissions (g/km): Tailpipe emissions of carbon dioxide for combined city and highway driving, in grams per kilometer.
 
 # Prerequisites
  During development of this project, various tools and technologies were used:
